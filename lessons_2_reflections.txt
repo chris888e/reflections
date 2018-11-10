@@ -1,3 +1,5 @@
 Note 
 What happens when you initialize a repository? Why do you need to do it?
 
+Need to do this to get git to work
+
